@@ -2,8 +2,6 @@ from sunau import AUDIO_FILE_ENCODING_ADPCM_G721
 from flask import Flask, render_template, redirect, request, jsonify
 
 
-# Create an instance of Flask
-app = Flask(__name__)
 
 
 
